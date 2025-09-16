@@ -6,7 +6,7 @@
 * 🌍  I'm based in Naples, FL, USA
 * ✉️  You can contact me at [favio.flores.olaza@gmail.com](mailto:favio.flores.olaza@gmail.com)
 * 🚀  I'm currently working on [jaio360app](http://www.jaio360.com)
-* 🧠  I'm currently learning Machine Learning for AI starting, but I'm mostly active within the Java Community
+* 🧠  I'm currently exploring **Machine Learning & AI** with **Google Vertex AI** and **Gemini AI**, integrating it with **Spring Boot**.
 * 👥  I'm looking to collaborate on Interesting projects
 * 👯  I am a spider dad, father of two little Spiders boys. Don't tell anyone about this is a secret...
 
@@ -28,6 +28,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1982c4?style=flat-square&logo=bootstrap&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+
+### AI & Cloud ML
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-9b59b6?style=flat-square&logo=googlegemini&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot%20AI-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Cloud & DevOps
 ![Maven](https://img.shields.io/badge/Maven-c5ca30?style=flat-square&logo=amazon-aws)
@@ -68,6 +73,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-favio.flores.olaza-ff924c?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/favio.flores.olaza/)](https://instagram.com/favio.flores.olaza)
 [![Facebook Badge](https://img.shields.io/badge/-favio.flores.olaza-1982c4?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/favio.flores.olaza)](https://www.facebook.com/favio.flores.olaza)
 [![Gmail Badge](https://img.shields.io/badge/-favio.flores.olaza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favio.flores.olaza@gmail.com)](mailto:favio.flores.olaza@gmail.com)
+
+
+## Featured Projects
+
+- 🤖 **AI Document Generator** – Spring Boot + Vertex AI + Gemini for document automation  
+  [Repository](https://github.com/faviofloresdev/ai-doc-generator)
 
 
 ### Badges
