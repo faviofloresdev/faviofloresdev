@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Naples, FL, USA
 * ✉️  You can contact me at [favio.flores.olaza@gmail.com](mailto:favio.flores.olaza@gmail.com)
-* 🚀  I'm currently working on [jaio360app](http://www.jaio360.com)
+* 🚀  I'm currently working on [KeepWorking App for Personal business)
 * 🧠  I'm currently exploring **Machine Learning & AI** with **Google Vertex AI** and **Gemini AI**, integrating it with **Spring Boot**.
 * 👥  I'm looking to collaborate on Interesting projects
 * 👯  I am a spider dad, father of two little Spiders boys. Don't tell anyone about this is a secret...
@@ -14,6 +14,7 @@
 
 ### Programming & Frameworks
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
+![Flutter](https://img.shields.io/badge/-Flutter-skyblue?style=flat-square&logo=flutter)
 ![JPA](https://img.shields.io/badge/-JPA-52a675?style=flat-square&logo=jpa)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-6a4c93?style=flat-square&logo=hibernate)
 ![JSF](https://img.shields.io/badge/-JSF-DDCDF3?style=flat-square&logo=jsf)
